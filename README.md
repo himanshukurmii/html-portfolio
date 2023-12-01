@@ -1,3 +1,3 @@
 # html-portfolio
 <br/>
-author- Hiamshu gangwar
+author- Himanshu gangwar
